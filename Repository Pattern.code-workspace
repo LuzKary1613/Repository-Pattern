@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../layer/.idea"
+	},
+	{
+		"path": "../layer"
+	}
+],
+  "settings": {}
+}
